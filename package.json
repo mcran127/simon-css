@@ -1,0 +1,15 @@
+{
+  "name": "simon-css",
+  "version": "1.0.0",
+  "description": "This application deliverable demonstrates the use of basic CSS for styling and a responsive design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
